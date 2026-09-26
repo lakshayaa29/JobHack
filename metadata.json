@@ -1,0 +1,6 @@
+{
+  "name": "Ascent - Student Career & Technical Preparation",
+  "description": "Comprehensive student career and technical preparation platform bridging academic skills and industry expectations with AI-powered skill roadmaps, project engineering paths, and market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
